@@ -889,7 +889,7 @@ INSTALLED_APPS = (
     "social_django",
     "drf_spectacular",
     "drf_spectacular_sidecar",  # required for Django collectstatic discovery
-    "tagulous",
+    "django_tagulous",
     "fontawesomefree",
     "django_filters",
 )
